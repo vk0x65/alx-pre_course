@@ -1,0 +1,15 @@
+mkdir [directory-name]
+cd [directory-path]
+touch [file_name]
+git add .
+git status
+git commit -m "message"
+git push [remote-name]
+git push [master]
+git branch -a
+git branch [branch_name]
+git checkout [branch_name]
+git fetch --all
+git merge master
+git push origin master
+git pull
